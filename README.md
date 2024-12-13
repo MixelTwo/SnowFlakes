@@ -1,6 +1,5 @@
 # Снежинки ❄
-### [Скачать ❄ (Для Windows) v2.2](https://raw.githubusercontent.com/MixelTwo/SnowFlakes/main/SnowFlakes.exe)
-
+### [Скачать ❄ (Для Windows) v2.2](https://github.com/MixelTwo/SnowFlakes/releases/download/v2.2/SnowFlakes.exe)
 Снежинки, падающие поверх экрана.
 
 Двигая мышку, можно сдувать снежинки.
